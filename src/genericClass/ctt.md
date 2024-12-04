@@ -11,3 +11,6 @@
 ° V - Value
 ° S,U,V etc. - 2nd, 3rd, 4th type
 
+Parameter type di Generic class boleh lebih dari satu
+Namun harus menggunakan nama type berbeda
+Ini sangat berguna ketika kita ingin membuat generic parameter type yang banyak
